@@ -1,0 +1,2 @@
+# EjercicioPractico
+Graficas
